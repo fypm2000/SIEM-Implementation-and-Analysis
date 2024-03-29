@@ -13,7 +13,7 @@ Installation and configuration of Elastic Stack and Kali Linux, log collection a
 
 - Elastic Cloud (Elasticsearch, Kibana, Elastic Agent) 
 - VirtualBox
-- Kali Linux VM.
+- Kali Linux VM
 
 ## Steps
 
