@@ -35,4 +35,5 @@ Query and analyze logs in Elastic SIEM.
 
 
 Create dashboards and alerts for monitoring security events.
+![New Dashboard - Elastic and 1 more page - Personal - Microsoft​ Edge 3_28_2024 5_42_04 PM](https://github.com/fypm2000/SIEM-Implementation-and-Analysis/assets/117059426/df1855c3-a334-4846-83e6-6454ce8e7248)
 ![New Dashboard - Elastic and 1 more page - Personal - Microsoft​ Edge 3_28_2024 6_15_09 PM](https://github.com/fypm2000/SIEM-Implementation-and-Analysis/assets/117059426/a050934f-9208-42a9-989c-97dd2a65802d)
