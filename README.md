@@ -20,7 +20,7 @@ Installation and configuration of Elastic Stack and Kali Linux, log collection a
 - Create a free Elastic Cloud account and set up an Elastic instance.
 - Install and set up a Kali Linux VM.
   
-Integration of Elastic Agent on Kali:
+Integration of Elastic Agent on Kali host:
 ![Screenshot 3_28_2024 4_23_37 PM](https://github.com/fypm2000/SIEM-Implementation-and-Analysis/assets/117059426/d862717f-01a2-481e-8432-993ac0bb4068)
 ![kali-linux-2024 1-virtualbox-amd64  Running  - Oracle VM VirtualBox 3_28_2024 4_23_49 PM](https://github.com/fypm2000/SIEM-Implementation-and-Analysis/assets/117059426/5a70dd08-0426-4227-a7e9-ff67ca54d6f3)
 - The command was used to install, enroll, and start the Elastic Agent on Kali VM to collect and forward logs.
